@@ -1,0 +1,5 @@
+-Oscillations should follow simple harmonic motion if the conditions are purely based on weight, with differing amplitudes for each material - due to differing coefficient of friction and weight force 
+-But- the coefficient of friction is dynamic, not static (not referring to static friction), meaning ti chnages as the sliding speed between rod and cylinders change
+-Coefficient follows a curve- and dependent on material, this curve can differ, and be translated left or right which is why at low velocities, some materials oscillate, even accelerate off, while other materials decelerate and stop - and vice versa at higher velocities
+-Wegith force governs the oscillation - μk  = Fk/ mg    however μk plays a role in whether the rod accelerates and decelerates, thermal effects can be neglected due to relatively low velocities and weight between the materials
+Note: some erosion of the surface of the cylinders may have affected data, but this was negligible as it shouldn’t affect the material coefficient of friction, and all materials were sanded to minimise irregularities  
