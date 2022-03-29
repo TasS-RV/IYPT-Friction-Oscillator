@@ -3,7 +3,7 @@
 
 **Transferred into Github Repo for Storage as of 03/22**
 
-**Last edits to files were made 01/21**
+**Last edits to files were made 01/20**
 
 
 1)The 'main' directory includes files that can be executed to analyse the text files - the text files are generated from Matlab image processing software that automatically wrote into text files.
