@@ -5,7 +5,7 @@
 
 **Last edits to files were made 01/20**
 
-**The project was written prior to any github knowledge or experience of version control, therefore this is purely for storage and presentation.**
+**The project was written prior to any github knowledge or experience of version control, therefore this is purely for storage and presentation. The requirements.txt of necessary libraries to run this is also, for completeness of a conventional repository.**
 
 
 1)The 'main' directory includes files that can be executed to analyse the text files - the text files are generated from Matlab image processing software that automatically wrote into text files.
