@@ -1,0 +1,4 @@
+All the files in Data.zip should be unzipped, as the programs were written prior to use of python -m execution on the command line, so when trying to read files for graph plotting 
+the program may struggle with file discovery.
+
+Unzipping fully should allow the data files to populate and flood this directory entirely.
