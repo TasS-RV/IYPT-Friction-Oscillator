@@ -5,6 +5,8 @@
 
 **Last edits to files were made 01/20**
 
+**The project was written prior to any github knowledge or experience of version control, therefore this is purely for storage and presentation.**
+
 
 1)The 'main' directory includes files that can be executed to analyse the text files - the text files are generated from Matlab image processing software that automatically wrote into text files.
 
